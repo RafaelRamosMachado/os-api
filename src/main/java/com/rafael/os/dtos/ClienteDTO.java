@@ -67,7 +67,4 @@ public class ClienteDTO implements Serializable {
 	public void setTelefone(String telefone) {
 		this.telefone = telefone;
 	}
-	
-	
-	
 }
